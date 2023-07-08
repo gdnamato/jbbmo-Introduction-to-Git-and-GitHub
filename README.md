@@ -1,4 +1,4 @@
-# Introduction to Git and GitHub
+# IBM course Introduction to Git and GitHub
 
 ## Simple Interest Calculator
 
